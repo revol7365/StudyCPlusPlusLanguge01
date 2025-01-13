@@ -127,15 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter01-04\SimpleFunc.cpp" />
-    <ClCompile Include="Chapter01-04\SimpleMain.cpp" />
-    <ClCompile Include="Chapter01.cpp" />
     <ClCompile Include="Chapter02.cpp" />
     <ClCompile Include="Chapter03.cpp" />
     <ClCompile Include="Chapter04.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Chapter01-04\SimpleFunc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

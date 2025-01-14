@@ -127,13 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter-03-02-02\Chapter03-02-02.cpp" />
-    <ClCompile Include="Chapter-03-02-02\Printer.cpp" />
-    <ClCompile Include="Chapter03.cpp" />
     <ClCompile Include="Chapter04.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Chapter-03-02-02\Printer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter11.cpp" />
-    <ClCompile Include="Chapter12.cpp" />
+    <ClCompile Include="Chapter13.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitattributes" />

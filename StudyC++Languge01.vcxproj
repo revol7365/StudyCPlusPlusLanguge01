@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter11.cpp" />
+    <ClCompile Include="Chapter12.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitattributes" />
